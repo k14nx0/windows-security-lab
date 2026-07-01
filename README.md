@@ -74,4 +74,3 @@ Implemented real-time structural screening to block standard network users from 
 #### 5. Real-Time Active File Screening Interception
 ![FSRM Enforcement Screen](./FSRM%20EXE%20FILES%20DENIED.png)
 
-
