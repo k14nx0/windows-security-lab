@@ -60,18 +60,18 @@ Implemented real-time structural screening to block standard network users from 
 ### 📊 Verification & Visual Evidence
 
 #### 1. Active Directory Domain Handshake Completion
-![Domain Join Verification](./images/Welcome%20to%20Domain%20PrtScr.png)
+![Domain Join Verification](./Welcome%20to%20Domain%20PrtScr.png)
 
 #### 2. Endpoint Hardening: USB Flash Drive Access Restriction
-![USB Hardening Verification](./images/USB%20Flash%20Drive%20Restriction%20PrtScr.png)
+![USB Hardening Verification](./USB%20Flash%20Drive%20Restriction%20PrtScr.png)
 
 #### 3. Endpoint Hardening: Restricted Standard User Access Interface Block
-![User Access Block Verification](./images/Drive%20Hover%20Access%20Is%20Denied%20@%20This%20PC%20Interface.png)
+![User Access Block Verification](./Drive%20Hover%20Access%20Is%20Denied%20%40%20This%20PC%20Interface.png)
 
 #### 4. File Share Configuration & FSRM Deployment
-![FSRM Dashboard Layout](./images/FSRM%20Config%20PrtScr.png)
+![FSRM Dashboard Layout](./D%20FSRM%20Config%20PrtScr.png)
 
 #### 5. Real-Time Active File Screening Interception
-![FSRM Enforcement Screen](./images/FSRM%20EXE%20FILES%20DENIED.png)
+![FSRM Enforcement Screen](./FSRM%20EXE%20FILES%20DENIED.png)
 
 
