@@ -66,10 +66,10 @@ Implemented real-time structural screening to block standard network users from 
 ![USB Hardening Verification](./USB%20Flash%20Drive%20Restriction%20PrtScr.png)
 
 #### 3. Endpoint Hardening: Restricted Standard User Access Interface Block
-<img src="./Drive Hover Access Is Denied @ This PC Interface.png" width="100%">
+![User Access Block Verification](./drive-access-denied.png)
 
-#### 4. File Share Configuration & FSRM Deployment
-<img src="./D FSRM Config PrtScr.png" width="100%">
+#### 4. File Server Configuration & FSRM Deployment
+![FSRM Dashboard Layout](./fsrm-config.png)
 
 #### 5. Real-Time Active File Screening Interception
 ![FSRM Enforcement Screen](./FSRM%20EXE%20FILES%20DENIED.png)
